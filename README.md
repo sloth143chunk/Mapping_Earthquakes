@@ -5,3 +5,8 @@ The purpose of this project is to visually show the differences between the magn
 
 ## Output
 ![final output](Earthquake_Challenge/static/images/Earthquake_webpage.png)
+
+
+## Resources
+- Data Source: earthquake.usgs.gov geojson, mapbox api
+- Software: HTML, Javascript, CSS, 
